@@ -2,7 +2,11 @@
 print('Hello')
 print('test')
 
-d = {}
+l = []
+
+l.extend(([1,2,4]))
+print(l)
+
 
 d.update({'name': "Denis", 'age':40})
 
