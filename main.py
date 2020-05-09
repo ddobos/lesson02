@@ -1,7 +1,6 @@
-print('test')
+print ('bla')
 
-d = {}
+l = []
 
-d.update({'name': "Denis", 'age':40})
-
-print(d)
+l.extend(([1,2,4]))
+print(l)
